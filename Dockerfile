@@ -71,7 +71,7 @@ RUN mkdir -p /opt/build && \
 #
 # Build a lean runtime container
 #
-FROM debian:bullseye-20240722
+FROM debian:11.11
 
 RUN apt-get update -y && \
     apt-get install -y default-jre bash libyaml-dev openssl libncurses5 locales fontconfig hunspell hunspell-fr hunspell-en-ca hunspell-en-us hunspell-es && \
