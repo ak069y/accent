@@ -13,7 +13,7 @@
     "@oclif/plugin-help": "^5.2.6",
     "@oclif/plugin-not-found": "^2.3.21",
     "chalk": "4.1.2",
-    "cli-ux": "5.6.7",
+    "cli-ux": "6.0.9",
     "decamelize": "5.0.1",
     "form-data": "^4.0.0",
     "glob": "^8.1.0",
