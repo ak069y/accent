@@ -7,13 +7,13 @@
     "accent": "./bin/run"
   },
   "dependencies": {
-    "@oclif/command": "^1.8.22",
+    "@oclif/command": "^1.8.36",
     "@oclif/config": "^1.18.8",
     "@oclif/core": "^2.3.1",
     "@oclif/plugin-help": "^5.2.6",
     "@oclif/plugin-not-found": "^2.3.21",
     "chalk": "4.1.2",
-    "cli-ux": "5.6.7",
+    "cli-ux": "6.0.9",
     "decamelize": "5.0.1",
     "form-data": "^4.0.0",
     "glob": "^8.1.0",
